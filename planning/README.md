@@ -28,9 +28,9 @@ The members of **Group-6** are:
    - [development-strategy](development-strategy.md)
 
   </details>
-3. Project board
-4. Code development
-5. Checking code (lint, document, format)
+3. Project board  
+4. Code development  
+5. Checking code (lint, document, format)  
 6. Pull requests
 
 ## Status
