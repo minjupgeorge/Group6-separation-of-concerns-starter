@@ -1,6 +1,6 @@
 {
 	"language": "en",
-	"words": ["Nepo", "callstack"],
+	"words": ["Nepo", "callstack", "Zerubabel", "Cristobal"],
 	"ignorePaths": [
 		"node_modules/**",
 		"package.json",
